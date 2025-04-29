@@ -1,6 +1,7 @@
 # Neural Network from Scratch: Diabetes Prediction 🧠💉
 
-This project implements a 2-layer feedforward neural network from scratch using only NumPy. It is trained to predict diabetes outcomes using the Pima Indians Diabetes dataset.  
+This project implements a 2-layer feedforward neural network from scratch using only NumPy. It is trained to predict diabetes outcomes using the Pima Indians Diabetes dataset.
+
 The goal of this project is to deeply understand the inner workings of neural networks — including forward propagation, backpropagation, and gradient descent — without relying on any machine learning frameworks like TensorFlow or PyTorch.
 
 ---
